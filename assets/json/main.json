@@ -1,0 +1,42 @@
+{
+    "links": [
+        { 
+            "name": "🐶🐐#5178"
+        },
+        { 
+            "name": "soundcloud",
+            "link": "https://soundcloud.com/sigilkore/"
+        },
+        { 
+            "name": "server",
+            "link": "discord://discord.com/invite/suffering/"
+        },
+        { 
+            "name": "instagram",
+            "link": "https://www.instagram.com/fucktabs/"
+        },
+        { 
+            "name": "midnight",
+            "link": "https://midnight.tf/"
+        }
+    ],
+    "songs": [
+        { 
+            "path": "/assets/media/audio/bleedonme",
+            "id": "1"
+        },
+        { 
+            "path": "/assets/media/audio/h8",
+            "id": "2"
+        },
+        { 
+            "path": "/assets/media/audio/theend",
+            "id": "3"
+        },
+        { 
+            "path": "/assets/media/audio/trips2chaos",
+            "id": "4"
+        }
+    ]
+}
+ 
