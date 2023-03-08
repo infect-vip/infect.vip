@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <base href="https://isolation.world">
         
         <title>isolate</title>
         <meta name="description" content="isolation.world">
